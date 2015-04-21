@@ -19,6 +19,7 @@ Open Source .NET libraries that make your life easier
 * [Fibber](#fibber)
 * [Fixie](#fixie)
 * [FluentMigrator](#fluentmigrator)
+* [FluentValidation](#fluentvalidation)
 * [Formo](#formo)
 * [FsCheck](#fscheck)
 * [Glimpse](#glimpse)
@@ -223,6 +224,15 @@ Fluent Migrations framework for .net.
 
 [fluentmigrator-gh]:    https://github.com/schambers/fluentmigrator
 [fluentmigrator-nuget]: http://nuget.org/packages/FluentMigrator
+
+## FluentValidation
+
+<sup>[GitHub][fluentvalidation-gh]</sup> <sup>[NuGet][fluentvalidation-nuget]</sup>
+
+Fluent Migrations framework for .net.
+
+[fluentvalidation-gh]:    https://github.com/JeremySkinner/FluentValidation
+[fluentvalidation-nuget]: http://www.nuget.org/packages/FluentValidation/
 
 ## [Formo][formo]
 
