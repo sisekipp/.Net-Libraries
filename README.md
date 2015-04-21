@@ -5,6 +5,7 @@ Open Source .NET libraries that make your life easier
 * [Akka.NET](#akkanet)
 * [Autofac](#autofac)
 * [AutoMapper](#automapper)
+* [AutoFixture](#autofixture)
 * [BCrypt.Net](#bcryptnet)
 * [CsQuery](#csquery)
 * [Cirqus](#cirqus)
@@ -94,6 +95,15 @@ A convention-based object-object mapper in .NET.
 [automapper]:       http://automapper.org
 [automapper-gh]:    https://github.com/AutoMapper/AutoMapper
 [automapper-nuget]: https://nuget.org/packages/AutoMapper
+
+## [AutoFixture][autofixture]
+
+<sup>[GitHub][autofixture-gh]</sup> <sup>[NuGet][autofixture-nuget]</sup>
+
+A convention-based object-object mapper in .NET.
+
+[autofixture-gh]:    https://github.com/AutoFixture/AutoFixture
+[autofixture-nuget]: http://www.nuget.org/packages/AutoFixture
 
 ## BCrypt.Net
 
