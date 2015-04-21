@@ -36,6 +36,7 @@ Open Source .NET libraries that make your life easier
 * [Logary ](#logary)
 * [NLog](#nlog)
 * [Nancy](#nancy)
+* [Opserver](#opserver)
 * [Polly](#polly)
 * [Postal](#postal)
 * [Refit](#refit)
@@ -386,6 +387,14 @@ Lightweight, low-ceremony, framework for building HTTP based services on .Net an
 [nancy]:       http://nancyfx.org
 [nancy-gh]:    https://github.com/NancyFx/Nancy
 [nancy-nuget]: https://nuget.org/packages/Nancy
+
+## [Opserver][opserver]
+
+<sup>[GitHub][opserver-gh]</sup>
+
+Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono.
+
+[opserver-gh]:    https://github.com/opserver/Opserver
 
 ## Polly
 
